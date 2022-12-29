@@ -77,6 +77,8 @@ packages/babel-standalone/babel.min.js.map
 .idea/
 /.changelog
 
+.env
+
 /eslint/*/lib
 /eslint/*/LICENSE
 !/packages/babel-eslint-plugin/LICENSE
